@@ -5,3 +5,4 @@ Complete https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 
 Track of your progress
 ---
+* 🕵️‍♀️ Day 1-9
